@@ -19,7 +19,7 @@
     <v-row justify="center">
       <v-col cols="8">
         <v-text-field type="password" label="senha" 
-          hint="Digite o sua senha" append-inner-icon="mdi-eye-off-outline"
+          hint="Digite sua senha" append-inner-icon="mdi-eye-off-outline"
           v-model="passwd"
         />
       </v-col>
